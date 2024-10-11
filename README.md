@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sarthak Lahare
 - 👀 I’m interested in Web-Developement
-- 🌱 I’m currently learning MCA Student/MERN Stack
+- 🌱 I’m currently learning MCA Student
+- MERN Full Stack Developer
 - 📫 How to reach me https:https://www.linkedin.com/in/sarthak-lahare-46547b249
 
 
